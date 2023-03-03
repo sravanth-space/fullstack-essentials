@@ -6,6 +6,7 @@
   "author": {
     "name": "Sravanth Baratam"
   },
+  "publisher": "sravanth",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
